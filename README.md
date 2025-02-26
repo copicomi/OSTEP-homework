@@ -1,5 +1,5 @@
 # OSTEP-homework
-`本人学习OSTEP时的作业实现
+本人学习OSTEP时的作业实现
 
 `/exercise`目录下是编码作业的实现
 
